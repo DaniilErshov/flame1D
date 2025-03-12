@@ -1,0 +1,28 @@
+^D:\STORAGE\DANIIL\GORENIE_VERSION\GORENIE_TRY1_10\SUNDIALS_BUILD\CMAKEFILES\8CE5DA63773A06BCABCC7AE913703460\TEST_INSTALL_IDAS_SERIAL.RULE
+setlocal
+cd D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\Testing_Install\idas\serial
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+D:\Storage\Daniil\cmake\cmake-3.28.3-windows-x86_64\bin\cmake.exe "C:/Program Files (x86)/SUNDIALS/examples/idas/serial" > cmake.out
+if %errorlevel% neq 0 goto :cmEnd
+D:\Storage\Daniil\cmake\cmake-3.28.3-windows-x86_64\bin\cmake.exe --build D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials_build/Testing_Install/idas/serial --target idasRoberts_dns > make.out
+if %errorlevel% neq 0 goto :cmEnd
+D:\Storage\Daniil\cmake\cmake-3.28.3-windows-x86_64\bin\ctest.exe -R "^idasRoberts_dns"$""
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\STORAGE\DANIIL\GORENIE_VERSION\GORENIE_TRY1_10\SUNDIALS\SUNDIALS-6.5.1\EXAMPLES\IDAS\SERIAL\CMAKELISTS.TXT
+setlocal
+D:\Storage\Daniil\cmake\cmake-3.28.3-windows-x86_64\bin\cmake.exe -SD:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1 -BD:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials_build --check-stamp-file D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials_build/examples/idas/serial/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

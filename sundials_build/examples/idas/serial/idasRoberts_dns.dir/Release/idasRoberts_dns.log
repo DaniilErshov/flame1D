@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/examples/idas/serial/CMakeLists.txt
+  idasRoberts_dns.c
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\include\sunnonlinsol\sunnonlinsol_newton.h(121,1): warning C4141: dllimport: используется несколько раз
+  idasRoberts_dns.vcxproj -> D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Release\idasRoberts_dns.exe

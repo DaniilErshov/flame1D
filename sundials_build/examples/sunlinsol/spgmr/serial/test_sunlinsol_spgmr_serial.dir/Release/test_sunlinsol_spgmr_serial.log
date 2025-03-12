@@ -1,0 +1,8 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/examples/sunlinsol/spgmr/serial/CMakeLists.txt
+  test_sunlinsol_spgmr_serial.c
+  test_sunlinsol.c
+  Создание кода...
+test_sunlinsol_spgmr_serial.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_SUNLinSol_SPGMR в функции main.
+test_sunlinsol_spgmr_serial.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_SUNLinSol_SPGMRSetPrecType в функции main.
+test_sunlinsol_spgmr_serial.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_SUNLinSol_SPGMRSetGSType в функции main.
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Release\test_sunlinsol_spgmr_serial.exe : fatal error LNK1120: неразрешенных внешних элементов: 3

@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/examples/arkode/C_serial/CMakeLists.txt
+  ark_brusselator_fp.c
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\include\sunnonlinsol\sunnonlinsol_fixedpoint.h(130,1): warning C4141: dllimport: используется несколько раз
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\arkode\C_serial\ark_brusselator_fp.c(172,12): warning C4996: 'SUNNonlinSolSetPrintLevel_FixedPoint': Use SUNLogger interface instead
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\arkode\C_serial\ark_brusselator_fp.c(174,12): warning C4996: 'SUNNonlinSolSetInfoFile_FixedPoint': Use SUNLogger_SetInfoFilename instead
+LINK : fatal error LNK1104: не удается открыть файл "..\..\..\bin\Debug\sundials_arkode.lib"

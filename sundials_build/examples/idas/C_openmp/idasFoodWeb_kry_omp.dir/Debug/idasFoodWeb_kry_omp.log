@@ -1,0 +1,7 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/examples/idas/C_openmp/CMakeLists.txt
+  idasFoodWeb_kry_omp.c
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\idas\C_openmp\idasFoodWeb_kry_omp.c(389,20): warning C4101: jy: неиспользованная локальная переменная
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\idas\C_openmp\idasFoodWeb_kry_omp.c(508,13): warning C4849: Предложение "collapse" OpenMP игнорируется в директиве "parallel for".
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\idas\C_openmp\idasFoodWeb_kry_omp.c(499,16): warning C4101: jx: неиспользованная локальная переменная
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\idas\C_openmp\idasFoodWeb_kry_omp.c(747,24): warning C4101: is: неиспользованная локальная переменная
+  idasFoodWeb_kry_omp.vcxproj -> D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Debug\idasFoodWeb_kry_omp.exe

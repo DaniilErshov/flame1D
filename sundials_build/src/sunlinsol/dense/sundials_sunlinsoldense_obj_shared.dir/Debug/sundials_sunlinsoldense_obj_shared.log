@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/src/sunlinsol/dense/CMakeLists.txt
+  sunlinsol_dense.c
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\src\sunlinsol\dense\sunlinsol_dense.c(199,16): warning C4244: =: преобразование "sunindextype" в "long", возможна потеря данных
+  sundials_sunlinsoldense_obj_shared.vcxproj -> D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\src\sunlinsol\dense\sundials_sunlinsoldense_obj_shared.dir\Debug\sundials_sunlinsoldense_obj_shared.lib

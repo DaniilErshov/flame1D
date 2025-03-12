@@ -1,0 +1,9 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/examples/sunlinsol/dense/CMakeLists.txt
+  test_sunlinsol_dense.c
+  test_sunlinsol.c
+  Создание кода...
+test_sunlinsol_dense.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_SUNDenseMatrix в функции main.
+test_sunlinsol_dense.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_SUNDenseMatrix_Print в функции main.
+test_sunlinsol_dense.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_SUNDenseMatrix_Column в функции main.
+test_sunlinsol_dense.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_SUNLinSol_Dense в функции main.
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Release\test_sunlinsol_dense.exe : fatal error LNK1120: неразрешенных внешних элементов: 4

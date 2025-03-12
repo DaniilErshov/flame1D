@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/examples/nvector/CMakeLists.txt
+  test_nvector.c
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\nvector\test_nvector.c(4980,14): warning C4244: функция: преобразование "sunindextype" в "double", возможна потеря данных
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\nvector\test_nvector.c(5020,14): warning C4244: функция: преобразование "sunindextype" в "double", возможна потеря данных
+  test_nvector_obj.vcxproj -> D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\examples\nvector\test_nvector_obj.dir\Debug\test_nvector_obj.lib

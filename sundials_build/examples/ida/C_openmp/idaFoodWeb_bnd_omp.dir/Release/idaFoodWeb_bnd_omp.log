@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/examples/ida/C_openmp/CMakeLists.txt
+  idaFoodWeb_bnd_omp.c
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\ida\C_openmp\idaFoodWeb_bnd_omp.c(356,20): warning C4101: jy: неиспользованная локальная переменная
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\ida\C_openmp\idaFoodWeb_bnd_omp.c(615,24): warning C4101: is: неиспользованная локальная переменная
+  idaFoodWeb_bnd_omp.vcxproj -> D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Release\idaFoodWeb_bnd_omp.exe

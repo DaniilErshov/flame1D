@@ -1,0 +1,98 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  0709_gorenie.cpp
+D:\Storage\Daniil\combustion\sundials\sundials-6.5.1\include\kinsol\kinsol.h(143,1): warning C4141: dllimport: используется несколько раз
+  (компиляция исходного файла "0709_gorenie.cpp")
+  
+D:\Storage\Daniil\combustion\sundials\sundials-6.5.1\include\sunnonlinsol\sunnonlinsol_newton.h(121,1): warning C4141: dllimport: используется несколько раз
+  (компиляция исходного файла "0709_gorenie.cpp")
+  
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(198,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(208,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(160,25): warning C4101: X_O2: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(153,12): warning C4101: W: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(157,13): warning C4101: my_x: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(153,26): warning C4101: Y_O2: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(160,31): warning C4101: X_N2: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(153,20): warning C4101: Y_H2: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(156,12): warning C4101: w_dot: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(160,12): warning C4101: X_H2O: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(155,9): warning C4101: retval: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(153,15): warning C4101: rho: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(160,19): warning C4101: X_H2: неиспользованная локальная переменная
+  GasTransport.cpp
+D:\Storage\Daniil\combustion\sundials\sundials-6.5.1\include\kinsol\kinsol.h(143,1): warning C4141: dllimport: используется несколько раз
+  (компиляция исходного файла "GasTransport.cpp")
+  
+D:\Storage\Daniil\combustion\sundials\sundials-6.5.1\include\sunnonlinsol\sunnonlinsol_newton.h(121,1): warning C4141: dllimport: используется несколько раз
+  (компиляция исходного файла "GasTransport.cpp")
+  
+D:\Storage\Daniil\combustion\0709_gorenie\GasTransport.cpp(287,35): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  concentration.cpp
+D:\Storage\Daniil\combustion\sundials\sundials-6.5.1\include\kinsol\kinsol.h(143,1): warning C4141: dllimport: используется несколько раз
+  (компиляция исходного файла "concentration.cpp")
+  
+D:\Storage\Daniil\combustion\sundials\sundials-6.5.1\include\sunnonlinsol\sunnonlinsol_newton.h(121,1): warning C4141: dllimport: используется несколько раз
+  (компиляция исходного файла "concentration.cpp")
+  
+D:\Storage\Daniil\combustion\0709_gorenie\concentration.cpp(80,18): warning C4101: sum2: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\concentration.cpp(80,12): warning C4101: sum1: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\concentration.cpp(78,41): warning C4101: logF_core_r: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\concentration.cpp(78,33): warning C4101: logF_r: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\concentration.cpp(86,12): warning C4101: sum_ThirdBodies: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\concentration.cpp(322,21): warning C4101: specie2: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\concentration.cpp(322,12): warning C4101: specie1: неиспользованная локальная переменная
+  constants.cpp
+D:\Storage\Daniil\combustion\sundials\sundials-6.5.1\include\kinsol\kinsol.h(143,1): warning C4141: dllimport: используется несколько раз
+  (компиляция исходного файла "constants.cpp")
+  
+D:\Storage\Daniil\combustion\sundials\sundials-6.5.1\include\sunnonlinsol\sunnonlinsol_newton.h(121,1): warning C4141: dllimport: используется несколько раз
+  (компиляция исходного файла "constants.cpp")
+  
+D:\Storage\Daniil\combustion\0709_gorenie\constants.cpp(97,53): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Storage\Daniil\combustion\0709_gorenie\constants.cpp(98,57): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  functions_sundials.cpp
+D:\Storage\Daniil\combustion\sundials\sundials-6.5.1\include\kinsol\kinsol.h(143,1): warning C4141: dllimport: используется несколько раз
+  (компиляция исходного файла "functions_sundials.cpp")
+  
+D:\Storage\Daniil\combustion\sundials\sundials-6.5.1\include\sunnonlinsol\sunnonlinsol_newton.h(121,1): warning C4141: dllimport: используется несколько раз
+  (компиляция исходного файла "functions_sundials.cpp")
+  
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(78,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(157,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(232,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(433,12): warning C4101: x_start: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(433,31): warning C4101: D: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(433,21): warning C4101: x_finish: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(648,12): warning C4101: W: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(647,18): warning C4101: Y_O2: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(647,12): warning C4101: Y_H2: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(648,15): warning C4101: w_dot: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(495,23): warning C4101: retvalr: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(973,29): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(1016,23): warning C4101: ypval: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(1291,12): warning C4101: W: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(1290,18): warning C4101: Y_O2: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(1290,12): warning C4101: Y_H2: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(1291,15): warning C4101: w_dot: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(1166,23): warning C4101: retvalr: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(1341,12): warning C4101: M: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(1489,12): warning C4101: M: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(1486,23): warning C4101: ypval: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(1819,12): warning C4101: W: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(1818,18): warning C4101: Y_O2: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(1818,12): warning C4101: Y_H2: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(1819,15): warning C4101: w_dot: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\functions_sundials.cpp(1568,23): warning C4101: retvalr: неиспользованная локальная переменная
+  thermodynamic.cpp
+D:\Storage\Daniil\combustion\sundials\sundials-6.5.1\include\kinsol\kinsol.h(143,1): warning C4141: dllimport: используется несколько раз
+  (компиляция исходного файла "thermodynamic.cpp")
+  
+D:\Storage\Daniil\combustion\sundials\sundials-6.5.1\include\sunnonlinsol\sunnonlinsol_newton.h(121,1): warning C4141: dllimport: используется несколько раз
+  (компиляция исходного файла "thermodynamic.cpp")
+  
+  Создание кода
+  12 of 4468 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    17 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  0709_gorenie.vcxproj -> D:\Storage\Daniil\combustion\sundials_build\bin\Release\0709_gorenie.exe

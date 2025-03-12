@@ -1,0 +1,2 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/src/arkode/CMakeLists.txt
+LINK : fatal error LNK1104: не удается открыть файл "D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Debug\sundials_arkode.lib"

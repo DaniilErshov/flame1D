@@ -1,0 +1,14 @@
+{
+	T_left: 500,
+	T_right: 2100,
+	koeff_fuel: 1.0,
+	Nx_start: 10,
+	u_initial: 100, 
+	P: 20,
+	l: 0.1,
+	num_threads: 10,
+	Fuel: "NC7H16",
+	therm: "..\\kinetics\\term.dat",
+	tran: "..\\kinetics\\tran.dat",
+	chem: "..\\kinetics\\heptane.inp"
+}

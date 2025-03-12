@@ -1,0 +1,20 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/examples/kinsol/serial/CMakeLists.txt
+  kinAnalytic_fp.c
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\include\kinsol\kinsol.h(143,1): warning C4141: dllimport: используется несколько раз
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\kinsol\serial\kinAnalytic_fp.c(234,12): warning C4996: 'KINSetInfoFile': Use SUNLogger_SetInfoFilename instead
+kinAnalytic_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINCreate в функции main.
+kinAnalytic_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINInit в функции main.
+kinAnalytic_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSol в функции main.
+kinAnalytic_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetDamping в функции main.
+kinAnalytic_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetMAA в функции main.
+kinAnalytic_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetOrthAA в функции main.
+kinAnalytic_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetDelayAA в функции main.
+kinAnalytic_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetDampingAA в функции main.
+kinAnalytic_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetNumMaxIters в функции main.
+kinAnalytic_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetFuncNormTol в функции main.
+kinAnalytic_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetInfoFile в функции main.
+kinAnalytic_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetPrintLevel в функции main.
+kinAnalytic_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINGetNumNonlinSolvIters в функции main.
+kinAnalytic_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINGetNumFuncEvals в функции main.
+kinAnalytic_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINFree в функции main.
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Release\kinAnalytic_fp.exe : fatal error LNK1120: неразрешенных внешних элементов: 15

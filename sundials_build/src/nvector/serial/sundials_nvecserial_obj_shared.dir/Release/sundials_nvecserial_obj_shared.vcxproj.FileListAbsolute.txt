@@ -1,0 +1,1 @@
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\src\nvector\serial\sundials_nvecserial_obj_shared.dir\Release\sundials_nvecserial_obj_shared.lib

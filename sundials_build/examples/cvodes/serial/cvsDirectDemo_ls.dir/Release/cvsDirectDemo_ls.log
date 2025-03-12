@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/examples/cvodes/serial/CMakeLists.txt
+  cvsDirectDemo_ls.c
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\include\sunnonlinsol\sunnonlinsol_newton.h(121,1): warning C4141: dllimport: используется несколько раз
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\include\sunnonlinsol\sunnonlinsol_fixedpoint.h(130,1): warning C4141: dllimport: используется несколько раз
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\cvodes\serial\cvsDirectDemo_ls.c(664,20): warning C4244: функция: преобразование "sunindextype" в "double", возможна потеря данных
+  cvsDirectDemo_ls.vcxproj -> D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Release\cvsDirectDemo_ls.exe

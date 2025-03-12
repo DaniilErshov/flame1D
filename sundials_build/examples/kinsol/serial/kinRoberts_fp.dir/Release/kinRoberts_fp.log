@@ -1,0 +1,13 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/examples/kinsol/serial/CMakeLists.txt
+  kinRoberts_fp.c
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\include\kinsol\kinsol.h(143,1): warning C4141: dllimport: используется несколько раз
+kinRoberts_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINCreate в функции main.
+kinRoberts_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINInit в функции main.
+kinRoberts_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSol в функции main.
+kinRoberts_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetMAA в функции main.
+kinRoberts_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetFuncNormTol в функции main.
+kinRoberts_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINGetNumNonlinSolvIters в функции main.
+kinRoberts_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINGetNumFuncEvals в функции main.
+kinRoberts_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINGetFuncNorm в функции main.
+kinRoberts_fp.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINFree в функции main.
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Release\kinRoberts_fp.exe : fatal error LNK1120: неразрешенных внешних элементов: 9

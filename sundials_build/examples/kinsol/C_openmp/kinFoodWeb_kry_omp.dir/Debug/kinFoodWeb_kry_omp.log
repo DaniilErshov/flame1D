@@ -1,0 +1,8 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/examples/kinsol/C_openmp/CMakeLists.txt
+  kinFoodWeb_kry_omp.c
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\include\kinsol\kinsol.h(143,1): warning C4141: dllimport: используется несколько раз
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\kinsol\C_openmp\kinFoodWeb_kry_omp.c(414,16): warning C4101: i: неиспользованная локальная переменная
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\kinsol\C_openmp\kinFoodWeb_kry_omp.c(489,13): warning C4849: Предложение "collapse" OpenMP игнорируется в директиве "parallel for".
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\kinsol\C_openmp\kinFoodWeb_kry_omp.c(482,22): warning C4101: jx: неиспользованная локальная переменная
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\kinsol\C_openmp\kinFoodWeb_kry_omp.c(517,16): warning C4101: i: неиспользованная локальная переменная
+  kinFoodWeb_kry_omp.vcxproj -> D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Debug\kinFoodWeb_kry_omp.exe

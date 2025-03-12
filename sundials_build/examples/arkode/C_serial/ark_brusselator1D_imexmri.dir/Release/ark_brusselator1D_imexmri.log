@@ -1,0 +1,3 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/examples/arkode/C_serial/CMakeLists.txt
+  ark_brusselator1D_imexmri.c
+  ark_brusselator1D_imexmri.vcxproj -> D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Release\ark_brusselator1D_imexmri.exe

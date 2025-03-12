@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/examples/idas/serial/CMakeLists.txt
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(254,5): warning MSB8065: настраиваемая сборка для элемента "D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\idas\serial\CMakeLists.txt" успешно выполнена, но указанные выходные данные "d:\storage\daniil\gorenie_version\gorenie_try1_10\sundials_build\examples\idas\serial\cmakefiles\generate.stamp" не созданы. Это может привести к неправильной работе инкрементной сборки.
+  idasAnalytic_mels.c
+  idasAnalytic_mels.vcxproj -> D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Release\idasAnalytic_mels.exe

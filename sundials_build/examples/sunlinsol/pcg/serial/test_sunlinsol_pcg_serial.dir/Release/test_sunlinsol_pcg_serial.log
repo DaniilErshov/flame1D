@@ -1,0 +1,7 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/examples/sunlinsol/pcg/serial/CMakeLists.txt
+  test_sunlinsol_pcg_serial.c
+  test_sunlinsol.c
+  Создание кода...
+test_sunlinsol_pcg_serial.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_SUNLinSol_PCG в функции main.
+test_sunlinsol_pcg_serial.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_SUNLinSol_PCGSetPrecType в функции main.
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Release\test_sunlinsol_pcg_serial.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

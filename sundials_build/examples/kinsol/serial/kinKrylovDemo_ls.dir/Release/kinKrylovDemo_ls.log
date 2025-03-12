@@ -1,0 +1,26 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/examples/kinsol/serial/CMakeLists.txt
+  kinKrylovDemo_ls.c
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\include\kinsol\kinsol.h(143,1): warning C4141: dllimport: используется несколько раз
+kinKrylovDemo_ls.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetLinearSolver в функции main.
+kinKrylovDemo_ls.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetPreconditioner в функции main.
+kinKrylovDemo_ls.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINGetNumLinFuncEvals в функции PrintFinalStats.
+kinKrylovDemo_ls.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINGetNumPrecEvals в функции PrintFinalStats.
+kinKrylovDemo_ls.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINGetNumPrecSolves в функции PrintFinalStats.
+kinKrylovDemo_ls.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINGetNumLinIters в функции PrintFinalStats.
+kinKrylovDemo_ls.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINGetNumLinConvFails в функции PrintFinalStats.
+kinKrylovDemo_ls.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINCreate в функции main.
+kinKrylovDemo_ls.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINInit в функции main.
+kinKrylovDemo_ls.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSol в функции main.
+kinKrylovDemo_ls.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetUserData в функции main.
+kinKrylovDemo_ls.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetFuncNormTol в функции main.
+kinKrylovDemo_ls.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetScaledStepTol в функции main.
+kinKrylovDemo_ls.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetConstraints в функции main.
+kinKrylovDemo_ls.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINGetNumNonlinSolvIters в функции PrintFinalStats.
+kinKrylovDemo_ls.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINGetNumFuncEvals в функции PrintFinalStats.
+kinKrylovDemo_ls.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINFree в функции main.
+kinKrylovDemo_ls.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_SUNLinSol_SPGMR в функции main.
+kinKrylovDemo_ls.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_SUNLinSol_SPGMRSetMaxRestarts в функции main.
+kinKrylovDemo_ls.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_SUNLinSol_SPBCGS в функции main.
+kinKrylovDemo_ls.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_SUNLinSol_SPTFQMR в функции main.
+kinKrylovDemo_ls.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_SUNLinSol_SPFGMR в функции main.
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Release\kinKrylovDemo_ls.exe : fatal error LNK1120: неразрешенных внешних элементов: 22

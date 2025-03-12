@@ -1,0 +1,22 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  0709_gorenie.cpp
+D:\Storage\Daniil\combustion\sundials\sundials-6.5.1\include\kinsol\kinsol.h(143,1): warning C4141: dllimport: используется несколько раз
+  (компиляция исходного файла "0709_gorenie.cpp")
+  
+D:\Storage\Daniil\combustion\sundials\sundials-6.5.1\include\sunnonlinsol\sunnonlinsol_newton.h(121,1): warning C4141: dllimport: используется несколько раз
+  (компиляция исходного файла "0709_gorenie.cpp")
+  
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(197,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(207,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(159,25): warning C4101: X_O2: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(152,12): warning C4101: W: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(156,13): warning C4101: my_x: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(152,26): warning C4101: Y_O2: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(159,31): warning C4101: X_N2: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(152,20): warning C4101: Y_H2: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(155,12): warning C4101: w_dot: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(159,12): warning C4101: X_H2O: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(154,9): warning C4101: retval: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(152,15): warning C4101: rho: неиспользованная локальная переменная
+D:\Storage\Daniil\combustion\0709_gorenie\0709_gorenie.cpp(159,19): warning C4101: X_H2: неиспользованная локальная переменная
+  0709_gorenie.vcxproj -> D:\Storage\Daniil\combustion\sundials_build\bin\Debug\0709_gorenie.exe

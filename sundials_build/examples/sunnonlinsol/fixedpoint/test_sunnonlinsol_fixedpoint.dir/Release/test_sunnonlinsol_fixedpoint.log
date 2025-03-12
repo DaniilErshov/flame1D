@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/examples/sunnonlinsol/fixedpoint/CMakeLists.txt
+  test_sunnonlinsol_fixedpoint.c
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\include\sunnonlinsol\sunnonlinsol_fixedpoint.h(130,1): warning C4141: dllimport: используется несколько раз
+test_sunnonlinsol_fixedpoint.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_SUNNonlinSol_FixedPoint в функции main.
+test_sunnonlinsol_fixedpoint.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_SUNNonlinSolSetDamping_FixedPoint в функции main.
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Release\test_sunnonlinsol_fixedpoint.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

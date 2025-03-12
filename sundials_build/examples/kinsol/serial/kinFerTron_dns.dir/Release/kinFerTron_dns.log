@@ -1,0 +1,20 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/examples/kinsol/serial/CMakeLists.txt
+  kinFerTron_dns.c
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\include\kinsol\kinsol.h(143,1): warning C4141: dllimport: используется несколько раз
+kinFerTron_dns.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetLinearSolver в функции main.
+kinFerTron_dns.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINGetNumJacEvals в функции SolveIt.
+kinFerTron_dns.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINGetNumLinFuncEvals в функции SolveIt.
+kinFerTron_dns.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINCreate в функции main.
+kinFerTron_dns.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINInit в функции main.
+kinFerTron_dns.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSol в функции SolveIt.
+kinFerTron_dns.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetUserData в функции main.
+kinFerTron_dns.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetMaxSetupCalls в функции SolveIt.
+kinFerTron_dns.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetFuncNormTol в функции main.
+kinFerTron_dns.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetScaledStepTol в функции main.
+kinFerTron_dns.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetConstraints в функции main.
+kinFerTron_dns.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINGetNumNonlinSolvIters в функции SolveIt.
+kinFerTron_dns.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINGetNumFuncEvals в функции SolveIt.
+kinFerTron_dns.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINFree в функции main.
+kinFerTron_dns.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_SUNDenseMatrix в функции main.
+kinFerTron_dns.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_SUNLinSol_Dense в функции main.
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Release\kinFerTron_dns.exe : fatal error LNK1120: неразрешенных внешних элементов: 16

@@ -1,0 +1,21 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/examples/kinsol/serial/CMakeLists.txt
+  kinLaplace_picard_bnd.c
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\include\kinsol\kinsol.h(143,1): warning C4141: dllimport: используется несколько раз
+kinLaplace_picard_bnd.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetLinearSolver в функции main.
+kinLaplace_picard_bnd.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetJacFn в функции main.
+kinLaplace_picard_bnd.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINGetLinWorkSpace в функции main.
+kinLaplace_picard_bnd.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINGetNumJacEvals в функции main.
+kinLaplace_picard_bnd.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINGetNumLinFuncEvals в функции main.
+kinLaplace_picard_bnd.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINCreate в функции main.
+kinLaplace_picard_bnd.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINInit в функции main.
+kinLaplace_picard_bnd.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSol в функции main.
+kinLaplace_picard_bnd.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetMAA в функции main.
+kinLaplace_picard_bnd.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINSetFuncNormTol в функции main.
+kinLaplace_picard_bnd.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINGetNumNonlinSolvIters в функции main.
+kinLaplace_picard_bnd.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINGetNumFuncEvals в функции main.
+kinLaplace_picard_bnd.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINGetFuncNorm в функции main.
+kinLaplace_picard_bnd.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_KINFree в функции main.
+kinLaplace_picard_bnd.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_SUNBandMatrix в функции main.
+kinLaplace_picard_bnd.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_SUNBandMatrix_Column в функции jac.
+kinLaplace_picard_bnd.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_SUNLinSol_Band в функции main.
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Release\kinLaplace_picard_bnd.exe : fatal error LNK1120: неразрешенных внешних элементов: 17

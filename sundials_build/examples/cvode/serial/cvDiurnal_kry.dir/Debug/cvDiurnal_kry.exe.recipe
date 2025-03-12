@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Debug\sundials_sunmatrixband.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Debug\sundials_sunmatrixdense.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Debug\sundials_cvode.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Debug\sundials_nvecserial.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Debug\cvDiurnal_kry.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

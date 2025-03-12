@@ -1,0 +1,7 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/src/sunlinsol/sptfqmr/CMakeLists.txt
+  sunlinsol_sptfqmr.c
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\src\sundials\sundials_hashmap.h(26,48): warning C4305: инициализация: усечение из "unsigned __int64" в "const unsigned long"
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\src\sundials\sundials_hashmap.h(27,48): warning C4305: инициализация: усечение из "unsigned __int64" в "const unsigned long"
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\src\sunlinsol\sptfqmr\sunlinsol_sptfqmr.c(852,18): warning C4244: =: преобразование "sunindextype" в "long", возможна потеря данных
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\src\sunlinsol\sptfqmr\sunlinsol_sptfqmr.c(853,18): warning C4244: =: преобразование "sunindextype" в "long", возможна потеря данных
+  sundials_sunlinsolsptfqmr_obj_static.vcxproj -> D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\src\sunlinsol\sptfqmr\sundials_sunlinsolsptfqmr_obj_static.dir\Debug\sundials_sunlinsolsptfqmr_obj_static.lib

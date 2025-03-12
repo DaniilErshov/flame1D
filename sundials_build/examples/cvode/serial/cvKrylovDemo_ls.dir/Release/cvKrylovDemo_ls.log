@@ -1,0 +1,14 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/examples/cvode/serial/CMakeLists.txt
+  cvKrylovDemo_ls.c
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\include\sunnonlinsol\sunnonlinsol_newton.h(121,1): warning C4141: dllimport: используется несколько раз
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\cvode\serial\cvKrylovDemo_ls.c(271,14): warning C4996: 'SUNNonlinSolSetPrintLevel_Newton': Use SUNLogger interface instead
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\cvode\serial\cvKrylovDemo_ls.c(273,14): warning C4996: 'SUNNonlinSolSetInfoFile_Newton': Use SUNLogger_SetInfoFilename instead
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\cvode\serial\cvKrylovDemo_ls.c(323,18): warning C4996: 'SUNLinSolSetPrintLevel_SPGMR': Use SUNLogger interface instead
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\cvode\serial\cvKrylovDemo_ls.c(325,18): warning C4996: 'SUNLinSolSetInfoFile_SPGMR': Use SUNLogger_SetInfoFilename instead
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\cvode\serial\cvKrylovDemo_ls.c(351,18): warning C4996: 'SUNLinSolSetPrintLevel_SPFGMR': Use SUNLogger interface instead
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\cvode\serial\cvKrylovDemo_ls.c(353,18): warning C4996: 'SUNLinSolSetInfoFile_SPFGMR': Use SUNLogger_SetInfoFilename instead
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\cvode\serial\cvKrylovDemo_ls.c(379,18): warning C4996: 'SUNLinSolSetPrintLevel_SPBCGS': Use SUNLogger interface instead
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\cvode\serial\cvKrylovDemo_ls.c(381,18): warning C4996: 'SUNLinSolSetInfoFile_SPBCGS': Use SUNLogger_SetInfoFilename instead
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\cvode\serial\cvKrylovDemo_ls.c(407,18): warning C4996: 'SUNLinSolSetPrintLevel_SPTFQMR': Use SUNLogger interface instead
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\cvode\serial\cvKrylovDemo_ls.c(409,18): warning C4996: 'SUNLinSolSetInfoFile_SPTFQMR': Use SUNLogger_SetInfoFilename instead
+  cvKrylovDemo_ls.vcxproj -> D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Release\cvKrylovDemo_ls.exe

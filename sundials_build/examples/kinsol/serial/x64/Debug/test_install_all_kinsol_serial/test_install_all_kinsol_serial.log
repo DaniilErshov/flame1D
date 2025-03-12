@@ -1,0 +1,4 @@
+﻿  Running kinsol installation tests
+CUSTOMBUILD : CMake error : The source directory "C:/Program Files (x86)/SUNDIALS/examples/kinsol/serial" does not exist.
+  Specify --help for usage, or press the help button on the CMake GUI.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(254,5): error MSB8066: пользовательская сборка для "D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\CMakeFiles\7d346e89e5a9e47eb89b730b95784fb0\test_install_all_kinsol_serial.rule;D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\examples\kinsol\serial\CMakeLists.txt" завершила работу с кодом 1.

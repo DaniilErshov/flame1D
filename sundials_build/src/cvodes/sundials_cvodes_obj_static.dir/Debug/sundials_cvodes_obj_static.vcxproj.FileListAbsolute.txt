@@ -1,0 +1,1 @@
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\src\cvodes\sundials_cvodes_obj_static.dir\Debug\sundials_cvodes_obj_static.lib

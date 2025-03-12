@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/examples/sunlinsol/sptfqmr/serial/CMakeLists.txt
+  test_sunlinsol_sptfqmr_serial.c
+  test_sunlinsol.c
+  Создание кода...
+  test_sunlinsol_sptfqmr_serial.vcxproj -> D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\bin\Release\test_sunlinsol_sptfqmr_serial.exe

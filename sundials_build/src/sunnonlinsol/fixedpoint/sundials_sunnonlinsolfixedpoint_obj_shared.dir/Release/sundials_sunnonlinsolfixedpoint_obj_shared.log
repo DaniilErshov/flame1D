@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/Storage/Daniil/gorenie_version/gorenie_try1_10/sundials/sundials-6.5.1/src/sunnonlinsol/fixedpoint/CMakeLists.txt
+  sunnonlinsol_fixedpoint.c
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\include\sunnonlinsol\sunnonlinsol_fixedpoint.h(130,1): warning C4141: dllexport: используется несколько раз
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\src\sundials\sundials_hashmap.h(26,48): warning C4305: инициализация: усечение из "unsigned __int64" в "const unsigned long"
+D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials\sundials-6.5.1\src\sundials\sundials_hashmap.h(27,48): warning C4305: инициализация: усечение из "unsigned __int64" в "const unsigned long"
+  sundials_sunnonlinsolfixedpoint_obj_shared.vcxproj -> D:\Storage\Daniil\gorenie_version\gorenie_try1_10\sundials_build\src\sunnonlinsol\fixedpoint\sundials_sunnonlinsolfixedpoint_obj_shared.dir\Release\sundials_sunnonlinsolfixedpoint_obj_shared.lib
